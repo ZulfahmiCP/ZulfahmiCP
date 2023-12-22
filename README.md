@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zulfahmi</h1>
 <h3 align="center">Competitive Programmer | Algorithmic & Data Structure Enthusiast</h3>
 
-- 📫 How to reach me **zulfahmi1612@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zul fahmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zul fahmi" height="30" width="40" /></a>
